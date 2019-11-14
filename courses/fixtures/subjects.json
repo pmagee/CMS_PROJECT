@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Computing",
+    "slug": "computing"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Business",
+    "slug": "business"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Engineering",
+    "slug": "engineering"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 8,
+  "fields": {
+    "title": "Sports Science",
+    "slug": "sports-science"
+  }
+}
+]
